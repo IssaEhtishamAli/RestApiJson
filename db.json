@@ -1,0 +1,294 @@
+{
+    "users": [
+      {
+        "user_name": "mumd_Nawaz",
+        "user_email": "nawaz@gmail.com",
+        "user_contact_no": "0920390230",
+        "user_password": "293892bwdf",
+        "user_type": 1,
+        "user_status": 1,
+        "user_earning": "87687678",
+        "id": 1
+      },
+      {
+        "user_name": "Awais",
+        "user_email": "awais123@gmail.com",
+        "user_contact_no": "02840982",
+        "user_password": "03209r82983",
+        "user_type": 2,
+        "user_status": 1,
+        "user_earning": "35235252",
+        "id": 2
+      },
+      {
+        "user_name": "Ehtisham Ali",
+        "user_email": "ehtisham@gmail.com",
+        "user_contact_no": "0293072309",
+        "user_password": "128y9182",
+        "user_type": 1,
+        "user_status": 1,
+        "user_earning": "19189183",
+        "id": 3
+      },
+      {
+        "user_name": "umer",
+        "user_email": "umer123@gmail.com",
+        "user_contact_no": "0238923023",
+        "user_password": "02908238903",
+        "user_type": 2,
+        "user_status": 2,
+        "user_earning": "23902930",
+        "id": 4
+      },
+      {
+        "user_name": "Babar",
+        "user_email": "babar123@gmail.com",
+        "user_contact_no": "028390289",
+        "user_password": "32052923",
+        "user_type": 2,
+        "user_status": 1,
+        "user_earning": "23902930",
+        "id": 5
+      },
+      {
+        "user_name": "waleed",
+        "user_email": "waleed123@gmail.com",
+        "user_contact_no": "093299239",
+        "user_password": "298328289",
+        "user_type": 2,
+        "user_status": 1,
+        "user_earning": "10000000000",
+        "id": 6
+      },
+      {
+        "user_name": "Sharjeel",
+        "user_email": "sharjeel123@gmail.com",
+        "user_contact_no": "093299239",
+        "user_password": "298328289",
+        "user_type": 2,
+        "user_status": 1,
+        "user_earning": "10000",
+        "id": 7
+      },
+      {
+        "user_name": "Abdul Hadi",
+        "user_email": "hadi23@gmail.com",
+        "user_contact_no": "093299239",
+        "user_password": "298328289",
+        "user_type": 2,
+        "user_status": 1,
+        "user_earning": "1000032323",
+        "id": 8
+      },
+      {
+        "user_name": "wahab",
+        "user_email": "wahab23@gmail.com",
+        "user_contact_no": "0293729923",
+        "user_password": "298328289",
+        "user_type": 2,
+        "user_status": 1,
+        "user_earning": "2000000000",
+        "id": 9
+      },
+      {
+        "user_name": "Ahad",
+        "user_email": "ahad123@gmail.com",
+        "user_contact_no": "0293729923028",
+        "user_password": "232342342",
+        "user_type": 1,
+        "user_status": 1,
+        "user_earning": "200040202",
+        "id": 10
+      },
+      {
+        "user_name": "Sajjad",
+        "user_email": "sajjad123@gmail.com",
+        "user_contact_no": "0320023900",
+        "user_password": "232323233",
+        "user_type": 2,
+        "user_status": 1,
+        "user_earning": "200040202121",
+        "id": 11
+      },
+      {
+        "user_name": "Sohaib",
+        "user_email": "sohaib123@gmail.com",
+        "user_contact_no": "02394082390",
+        "user_password": "0129102912",
+        "user_type": 2,
+        "user_status": 1,
+        "user_earning": "1928918798",
+        "id": 12
+      },
+      {
+        "user_name": "Sohail",
+        "user_email": "sohail@gmail.com",
+        "user_contact_no": "001298012901",
+        "user_password": "10290180",
+        "user_type": 2,
+        "user_status": 1,
+        "user_earning": "1912819182",
+        "id": 13
+      },
+      {
+        "user_name": "Rizwan",
+        "user_email": "rizwan@gmail.com",
+        "user_contact_no": "12981911",
+        "user_password": "981279871",
+        "user_type": 2,
+        "user_status": 1,
+        "user_earning": "191281",
+        "id": 14
+      },
+      {
+        "user_name": "Uzman",
+        "user_email": "uzman@gmail.com",
+        "user_contact_no": "021809128",
+        "user_password": "912o1i12",
+        "user_type": 2,
+        "user_status": 1,
+        "user_earning": "23000",
+        "id": 15
+      },
+      {
+        "user_name": "usman",
+        "user_email": "usman@gmail.com",
+        "user_contact_no": "012901291",
+        "user_password": "1o212891",
+        "user_type": 2,
+        "user_status": 1,
+        "user_earning": "300000",
+        "id": 16
+      },
+      {
+        "user_name": "Iqbal",
+        "user_email": "iqbal@gmail.com",
+        "user_contact_no": "031028012801",
+        "user_password": "18299128",
+        "user_type": 2,
+        "user_status": 1,
+        "user_earning": "1201122122213213",
+        "id": 17
+      },
+      {
+        "user_name": "Assad",
+        "user_email": "assad@gmail.com",
+        "user_contact_no": "028980230",
+        "user_password": "92138297",
+        "user_type": 1,
+        "user_status": 1,
+        "user_earning": "293929382",
+        "id": 18
+      },
+      {
+        "user_name": "Hassan",
+        "user_email": "hassan@gmail.com",
+        "user_contact_no": "0210280191221",
+        "user_password": "117010",
+        "user_type": 1,
+        "user_status": 2,
+        "user_earning": "01080918209",
+        "id": 19
+      },
+      {
+        "user_name": "Musa",
+        "user_email": "mumdmussa@gmail.com",
+        "user_contact_no": "032092302",
+        "user_password": "b2bk3bk2k",
+        "user_type": 2,
+        "user_status": 2,
+        "user_earning": "29289823923",
+        "id": 20
+      },
+      {
+        "user_email": "nawaz@gmail.com",
+        "user_password": "293892bwdf",
+        "id": 21
+      },
+      {
+        "user_email": "nawaz@gmail.com",
+        "user_password": "293892bwdf",
+        "id": 23
+      },
+      {
+        "user_email": "nawaz@gmail.com",
+        "user_password": "293892bwdf",
+        "id": 24
+      },
+      {
+        "user_email": "nawaz@gmail.com",
+        "user_password": "0920390230",
+        "id": 25
+      },
+      {
+        "user_email": "nawaz@gmail.com",
+        "user_password": "293892bwdf",
+        "id": 26
+      },
+      {
+        "user_email": "nawaz@gmail.com",
+        "user_password": "293892bwdf",
+        "id": 27
+      },
+      {
+        "user_email": "awais123@gmail.com",
+        "user_password": "03209r82983",
+        "id": 28
+      },
+      {
+        "user_email": "nawaz@gmail.com",
+        "user_password": "293892bwdf",
+        "id": 29
+      },
+      {
+        "user_email": "nawaz@gmail.com",
+        "user_password": "293892bwdf",
+        "id": 30
+      },
+      {
+        "user_email": "awais123@gmail.com",
+        "user_password": "03209r82983",
+        "id": 31
+      },
+      {
+        "user_email": "awais123@gmail.com",
+        "user_password": "03209r82983",
+        "id": 32
+      },
+      {
+        "user_email": "babar123@gmail.com",
+        "user_password": "32052923",
+        "id": 38
+      },
+      {
+        "user_email": "mumdmussa@gmail.com",
+        "user_password": "b2bk3bk2k",
+        "id": 39
+      },
+      {
+        "user_email": "awais123@gmail.com",
+        "user_password": "03209r82983",
+        "id": 40
+      },
+      {
+        "id": 41,
+        "user_name": "Ehtisham Ali",
+        "user_email": "issaehtishamali@gmail.com",
+        "user_contact_no": "03485153893",
+        "user_password": "aliali123@",
+        "user_type": 1,
+        "user_status": 1,
+        "user_earning": "300000000000000"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
